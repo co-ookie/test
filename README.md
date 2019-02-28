@@ -1,5 +1,5 @@
 # test
-this is for learning githup operation
+this is for learning github operation
 
-为了学习githup操作而创建
+为了学习github操作而创建
 test
